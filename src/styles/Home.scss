@@ -1,0 +1,75 @@
+@import '~bulma/bulma.sass';
+
+* {
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+div#root {
+    margin: 0;
+    display: block;
+    overflow: hidden;
+    background-image: url('https://inspirationfeed.com/wp-content/uploads/2015/04/blurred-background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.columns {
+    height: 100vh;
+    opacity: 80%;
+    height: auto;
+}
+
+.column {
+    margin: 20px 10px;
+    height: auto;
+}
+
+#sidebar {
+    background-color: black;
+    border-radius: 0px 15px 15px 0px;
+}
+
+#projects-bar {
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+}
+
+#projects-preview {
+    background-color: rgb(0, 0, 0);
+    border-radius: 15px;
+}
+
+#personals {
+    background-color: rgb(0, 0, 0);
+    height: auto;
+    border-radius: 15px;
+    opacity: 80%;
+}
+
+.skills-list {
+    li {
+        margin-top: 5px;
+
+        i {
+            margin-left: 10px;
+        }
+    }
+}
+
+#projects-bar {
+    p {
+        i {
+
+            margin-left: 5px;
+        }
+    }
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.wireframe-wrapper {
+    display: inline;
+}
