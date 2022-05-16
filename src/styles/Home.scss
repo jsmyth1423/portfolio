@@ -56,6 +56,10 @@ div#root {
     }
 }
 
+.real-list {
+    list-style-type: circle;
+}
+
 #projects-bar {
     p {
         i {
@@ -64,6 +68,7 @@ div#root {
         }
     }
 }
+
 
 img {
     max-width: 100%;
