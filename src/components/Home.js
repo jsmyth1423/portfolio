@@ -184,7 +184,7 @@ const Home = () => {
                 <div className='ml-4 column is-5'>
                     <h1 className='is-size-1 has-text-weight-bold'>ABOUT ME</h1>
                     <p>I took a course in software development to kickstart my learning and now I feel I'm ready for the next step, entering the working world! I'm proficient in both front and back-end development and looking for a role in which I can continue to learn and work with a great team in order to solve interesting problems. If you're interested, contact me!</p>
-                    <p className='mt-4'>Email: <a href='mailto:jsmyth1423@gmail.com'>jsmyth1423@gmail.com</a> | Phone Number: <a href="tel:+447525 361807">+447525 361807</a> | <a href="https://www.linkedin.com/in/jordan-a-smyth/" target='_blank' rel='noreferrer noopener'>LinkedIn</a> </p>
+                    <p className='mt-4'>Email: <a href='mailto:jsmyth1423@gmail.com'>jsmyth1423@gmail.com</a> | <a href="https://www.linkedin.com/in/jordan-a-smyth/" target='_blank' rel='noreferrer noopener'>LinkedIn</a> </p>
 
                 </div>
 
