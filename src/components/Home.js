@@ -187,11 +187,9 @@ const Home = () => {
                     <p className='mt-4'>Email: <a href='mailto:jsmyth1423@gmail.com'>jsmyth1423@gmail.com</a> | <a href="https://www.linkedin.com/in/jordan-a-smyth/" target='_blank' rel='noreferrer noopener'>LinkedIn</a> </p>
 
                 </div>
-
             </div>
         </>
     );
-
 };
 
 
