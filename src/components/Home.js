@@ -4,7 +4,7 @@ import '../styles/Home.scss';
 const Home = () => {
     return (
         <>
-            <div><h1 className='has-text-centered has-text-white has-text-weight-bold is-size-1'>JORDAN SMYTH - SOFTWARE DEVELOPER</h1></div>
+            <div><h1 className='has-text-centered has-text-black has-text-weight-bold is-size-1'>JORDAN SMYTH - SOFTWARE DEVELOPER</h1></div>
             <div className="columns is-mobile">
                 <div className='column is-2' id='sidebar'>
                     <div>
@@ -137,7 +137,7 @@ const Home = () => {
                             </p>
 
                             <p className='ml-2'>
-                                <a href="" target='_blank' rel='noreferrer noopener'>Live</a> |
+                                <a href="https://tindergames.netlify.app/games" target='_blank' rel='noreferrer noopener'>Live</a> |
                                 <a href="https://github.com/jsmyth1423/tinderbooks-project4-client/blob/main/readme.md" target='_blank' rel='noreferrer noopener'> GitHub</a></p>
                             <hr />
                         </ul>
@@ -149,14 +149,14 @@ const Home = () => {
                             <article class="tile is-child notification is-warning">
                                 <p class="title">Space Invaders</p>
                                 {/*! add links to projects below when clicking */}
-                                <a href=""><img className='project-images' src="https://media.discordapp.net/attachments/490194540129681408/974286189165174834/unknown.png?width=1330&height=701" alt="" /></a>
+                                <a href="https://jsmyth1423.github.io/ga-project-1/"><img className='project-images' src="https://media.discordapp.net/attachments/490194540129681408/974286189165174834/unknown.png?width=1330&height=701" alt="" /></a>
                                 <p class="subtitle">Grid Based JavaScript</p>
                             </article>
                         </div>
                         <div class="tile is-parent">
                             <article class="tile is-child notification is-warning">
                                 <p class="title">Guessing Game</p>
-                                <a href=""><img className='project-images' src="https://media.discordapp.net/attachments/490194540129681408/974285901326868510/unknown.png?width=1337&height=701" alt="" /></a>
+                                <a href="https://bit.ly/3vjAqvG"><img className='project-images' src="https://media.discordapp.net/attachments/490194540129681408/974285901326868510/unknown.png?width=1337&height=701" alt="" /></a>
                                 <p class="subtitle">Consuming a RESTful API with a React frontend</p>
                             </article>
                         </div>
@@ -165,14 +165,14 @@ const Home = () => {
                         <div class="tile is-parent">
                             <article class="tile is-child notification is-warning">
                                 <p class="title">Podcast Discovery App</p>
-                                <a href=""><img className='project-images' src="https://media.discordapp.net/attachments/490194540129681408/974286047448014878/unknown.png?width=1368&height=701" alt="" /></a>
+                                <a href="https://bit.ly/37S7lyu"><img className='project-images' src="https://media.discordapp.net/attachments/490194540129681408/974286047448014878/unknown.png?width=1368&height=701" alt="" /></a>
                                 <p class="subtitle">React frontend with MongoDB backend</p>
                             </article>
                         </div>
                         <div class="tile is-parent">
                             <article class="tile is-child notification is-warning">
                                 <p class="title">Tinder for Games</p>
-                                <a href=""><img className='project-images' src="https://media.discordapp.net/attachments/490194540129681408/974283551300268062/Screenshot_2022-05-12_at_13.14.38.png?width=1288&height=701" alt="" /></a>
+                                <a href="https://tindergames.netlify.app/games"><img className='project-images' src="https://media.discordapp.net/attachments/490194540129681408/974283551300268062/Screenshot_2022-05-12_at_13.14.38.png?width=1288&height=701" alt="" /></a>
                                 <p class="subtitle">React frontend with Django PostgreSQL backend</p>
                             </article>
 
