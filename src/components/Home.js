@@ -178,7 +178,7 @@ const Home = () => {
 
                         </div>
                     </div>
-                    <p className='has-text-white'>The above projects gave me a wide overview on many different technologies and a lot of insight into how products I use every day work. It also gave me a chance to work on things I cared about and may even use myself. Next on the list is a tool to help me keep track of my characters in a new game I've started. </p>
+                    <p className='has-text-white'>The above projects gave me a wide overview on many different technologies and a lot of insight into how products I use every day work. It also gave me a chance to work on things I cared about and may even use myself. I'm also currently taking a shorter course on iOS App development and Swift so I can work on both web and app developmenet.  </p>
                 </div>
             </div>
             <div className='has-text-white columns is-mobile' id='personals'>
